@@ -27,6 +27,9 @@ Esta calculadora é projetada para operar em um loop contínuo, permitindo ao us
 ### Menu:
 ![Conclusão](https://github.com/user-attachments/assets/0b70a76d-240e-40eb-b17a-efb419e63b58)
 
+# 💻 Executando o Programa: 
+https://github.com/user-attachments/assets/ae90eb65-8d71-4faa-b2eb-7c470c9bccad
+
 ## :octocat: Faça o clone do projeto
 
 ```bash
